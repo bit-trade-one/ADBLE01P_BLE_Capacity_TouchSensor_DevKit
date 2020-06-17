@@ -13,6 +13,12 @@ IoT試作ベースに最適なBluetooth® Low Energy近距離無線通信を
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adble01p/)!
 
+## [マニュアル](https://github.com/bit-trade-one/ADBLE01P_BLE_Capacity_TouchSensor_DevKit/blob/master/Manual/ADBLE01P_MANUAL.pdf)
+
+## [サンプル](https://github.com/bit-trade-one/ADBLE01P_BLE_Capacity_TouchSensor_DevKit/tree/master/Sample)
+
+## [外形図](https://github.com/bit-trade-one/ADBLE01P_BLE_Capacity_TouchSensor_DevKit/tree/master/Dimensions)
+
 ## 製品仕様
 
 【近接検出原理】自己容量方式  
